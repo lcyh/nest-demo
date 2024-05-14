@@ -1,6 +1,10 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+<!--
+ * @Author: changluo
+ * @Description:
+ * @LastEditors: luc19964 luochang@gopherasset.com
+-->
+
+### Nest 实现权限管理系统 后端篇（一）：NestJS入门与基础配置
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
